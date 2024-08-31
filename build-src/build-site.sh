@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 rm ./build-dest/*.html
 
 find ./site-src -name '*.md' -print0 |
