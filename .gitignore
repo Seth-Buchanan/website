@@ -4,3 +4,4 @@
 
 # Site destination files
 site-dest/*
+!site-dest/.gitignore
